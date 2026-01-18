@@ -1,0 +1,30 @@
+{
+"posts": [
+{
+"id": 1,
+"author": {
+"id": 1,
+"name": "Mike Chen",
+"avatar": "[https://i.pravatar.cc/150?img=12](https://i.pravatar.cc/150?img=12)"
+},
+"title": "The Future of Web Development",
+"description": "Web development is evolving rapidly with new frameworks and tools emerging every day. Staying up to date is crucial for modern developers.",
+"created_at": "2025-10-13T18:45:00",
+"isEditable": true,
+"isDeletable": true
+},
+{
+"id": 2,
+"author": {
+"id": 2,
+"name": "Sarah Johnson",
+"avatar": "[https://i.pravatar.cc/150?img=32](https://i.pravatar.cc/150?img=32)"
+},
+"title": "Why Flutter Is Gaining Popularity",
+"description": "Flutter allows developers to build cross-platform applications with a single codebase efficiently.",
+"created_at": "2025-11-02T10:20:00",
+"isEditable": false,
+"isDeletable": false
+}
+]
+}
