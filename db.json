@@ -1,48 +1,48 @@
 {
-"posts": [
-{
-"id": 1,
-"title": "The Future of Web Development",
-"description": "Web development is evolving rapidly with new frameworks and tools emerging every day.",
-"authorName": "Mike Chen",
-"authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
-"createdAt": "2025-10-13T18:45:00"
-},
-{
-"id": 2,
-"title": "Why Flutter Is So Popular",
-"description": "Flutter enables developers to build beautiful cross-platform apps with a single codebase.",
-"authorName": "John Watson",
-"authorAvatar": "https://easy-peasy.ai/_next/image?url=https%3A%2F%…caa971-b254-4487-a16f-c257c1e0893f.png&w=828&q=75",
-"createdAt": "2025-11-05T09:30:00"
-},
-{
-"id": 3,
-"title": "Modern UI Design Principles",
-"description": "Good UI design focuses on clarity, accessibility, and consistency.",
-"authorName": "David Miller",
-"authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F3.png&w=828&q=75",
-"createdAt": "2025-12-01T14:10:00"
-}
-],
-"comments": [
-{
-"id": 1,
-"body": "Very informative post",
-"postId": 1
-},
-{
-"id": 2,
-"body": "Thanks for sharing",
-"postId": 1
-},
-{
-"id": 3,
-"body": "Flutter is amazing",
-"postId": 2
-}
-],
-"profile": {
-"name": "Typicode Demo API"
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Future of Web Development",
+      "description": "Web development is evolving rapidly with new frameworks and tools emerging every day.",
+      "authorName": "Mike Chen",
+      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
+      "createdAt": "2025-10-13T18:45:00",
+      "comments": [
+        {
+          "id": 1,
+          "body": "Very informative post"
+        },
+        {
+          "id": 2,
+          "body": "Thanks for sharing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Why Flutter Is So Popular",
+      "description": "Flutter enables developers to build beautiful cross-platform apps with a single codebase.",
+      "authorName": "John Watson",
+      "authorAvatar": "https://easy-peasy.ai/_next/image?url=https%3A%2F%…caa971-b254-4487-a16f-c257c1e0893f.png&w=828&q=75",
+      "createdAt": "2025-11-05T09:30:00",
+      "comments": [
+        {
+          "id": 3,
+          "body": "Flutter is amazing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Modern UI Design Principles",
+      "description": "Good UI design focuses on clarity, accessibility, and consistency.",
+      "authorName": "David Miller",
+      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F3.png&w=828&q=75",
+      "createdAt": "2025-12-01T14:10:00",
+      "comments": []
+    }
+  ],
+  "profile": {
+    "name": "Typicode Demo API"
+  }
 }
