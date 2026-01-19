@@ -10,11 +10,15 @@
       "comments": [
         {
           "id": 1,
-          "body": "Very informative post"
+          "body": "Very informative post",
+          "authorName": "Alice",
+          "createdAt": "2025-10-13T19:00:00"
         },
         {
           "id": 2,
-          "body": "Thanks for sharing"
+          "body": "Thanks for sharing",
+          "authorName": "Bob",
+          "createdAt": "2025-10-13T19:15:00"
         }
       ]
     },
@@ -28,7 +32,9 @@
       "comments": [
         {
           "id": 3,
-          "body": "Flutter is amazing"
+          "body": "Flutter is amazing",
+          "authorName": "Charlie",
+          "createdAt": "2025-11-05T10:00:00"
         }
       ]
     },
