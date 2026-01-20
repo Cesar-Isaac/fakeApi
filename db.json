@@ -7,22 +7,7 @@
       "authorName": "Mike Chen",
       "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F5.png&w=828&q=75",
       "createdAt": "2025-10-13T18:45:00",
-      "comments": [
-        {
-          "id": 1,
-          "body": "Very informative post",
-          "authorName": "Alice",
-          "authorEmail": "alice@gmail.com",
-          "createdAt": "2025-10-13T19:00:00"
-        },
-        {
-          "id": 2,
-          "body": "Thanks for sharing",
-          "authorName": "Bob",
-          "authorEmail": "bob@gmail.com",
-          "createdAt": "2025-10-13T19:15:00"
-        }
-      ]
+      
     },
     {
       "id": 2,
@@ -31,15 +16,7 @@
       "authorName": "John Watson",
       "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
       "createdAt": "2025-11-05T09:30:00",
-      "comments": [
-        {
-          "id": 3,
-          "body": "Flutter is amazing",
-          "authorName": "Charlie",
-          "authorEmail": "boرcacb@gmail.com",
-          "createdAt": "2025-11-05T10:00:00"
-        }
-      ]
+   
     },
     {
       "id": 3,
@@ -48,26 +25,37 @@
       "authorName": "David Miller",
       "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F3.png&w=828&q=75",
       "createdAt": "2025-12-01T14:10:00",
-      "comments": []
+      
     }
   ],
    "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "authorName": "David",
-      "authorEmail": "bacb@gmail.com",
-      "createdAt": "2025-11-05T10:00:00"
+      {
+          "id": 1,
+          "body": "Very informative post",
+          "authorName": "Alice",
+          "authorEmail": "alice@gmail.com",
+          "createdAt": "2025-10-13T19:00:00",
       "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "authorName": "Charlie",
-      "authorEmail": "boرcacb@gmail.com",
-      "createdAt": "2025-11-05T10:00:00"
+        
+        },
+        {
+          "id": 2,
+          "body": "Thanks for sharing",
+          "authorName": "Bob",
+          "authorEmail": "bob@gmail.com",
+          "createdAt": "2025-10-13T19:15:00",
       "postId": 1
-    }
+          
+        },
+       {
+          "id": 3,
+          "body": "Flutter is amazing",
+          "authorName": "Charlie",
+          "authorEmail": "boرcacb@gmail.com",
+          "createdAt": "2025-11-05T10:00:00",
+         "postId": 2
+        }
+     
   ],
   "profile": {
     "name": "Typicode Demo API"
