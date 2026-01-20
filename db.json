@@ -51,6 +51,24 @@
       "comments": []
     }
   ],
+   "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "authorName": "David",
+      "authorEmail": "bacb@gmail.com",
+      "createdAt": "2025-11-05T10:00:00"
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "authorName": "Charlie",
+      "authorEmail": "boرcacb@gmail.com",
+      "createdAt": "2025-11-05T10:00:00"
+      "postId": 1
+    }
+  ],
   "profile": {
     "name": "Typicode Demo API"
   }
