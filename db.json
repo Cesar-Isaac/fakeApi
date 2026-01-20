@@ -32,6 +32,7 @@
       "authorName": "Alice",
       "authorEmail": "alice@gmail.com",
       "createdAt": "2025-10-13T19:00:00",
+      "authorAvatar": "https://picsum.photos/200/300",
       "postId": 1
     },
     {
@@ -40,6 +41,7 @@
       "authorName": "Bob",
       "authorEmail": "bob@gmail.com",
       "createdAt": "2025-10-13T19:15:00",
+      "authorAvatar": "https://picsum.photos/id/237/200/300.jpg",
       "postId": 1
     },
     {
@@ -48,6 +50,7 @@
       "authorName": "Charlie",
       "authorEmail": "charlie@gmail.com",
       "createdAt": "2025-11-05T10:00:00",
+      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
       "postId": 2
     }
   ],
