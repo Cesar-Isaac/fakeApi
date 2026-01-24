@@ -5,7 +5,7 @@
       "title": "The Future of Web Development",
       "description": "Web development is evolving rapidly with new frameworks and tools emerging every day.",
       "authorName": "Mike Chen",
-      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F5.png&w=828&q=75",
+      "authorAvatar": "https://picsum.photos/200/300",
       "createdAt": "2025-10-13T18:45:00"
     },
     {
@@ -13,7 +13,7 @@
       "title": "Why Flutter Is So Popular",
       "description": "Flutter enables developers to build beautiful cross-platform apps with a single codebase.",
       "authorName": "John Watson",
-      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
+      "authorAvatar": "https://picsum.photos/id/237/200/300.jpg",
       "createdAt": "2025-11-05T09:30:00"
     },
     {
@@ -21,7 +21,7 @@
       "title": "Modern UI Design Principles",
       "description": "Good UI design focuses on clarity, accessibility, and consistency.",
       "authorName": "David Miller",
-      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F3.png&w=828&q=75",
+      "authorAvatar": "https://picsum.photos/id/236/200/300.jpg",
       "createdAt": "2025-12-01T14:10:00"
     }
   ],
@@ -50,7 +50,7 @@
       "authorName": "Charlie",
       "authorEmail": "charlie@gmail.com",
       "createdAt": "2025-11-05T10:00:00",
-      "authorAvatar": "https://easy-peasy.ai/_next/image?url=%2Fimages%2Fheadshots%2F6.png&w=828&q=75",
+      "authorAvatar": "https://picsum.photos/200/300",
       "postId": 2
     }
   ],
